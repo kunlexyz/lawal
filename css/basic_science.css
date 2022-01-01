@@ -1,0 +1,91 @@
+/* 2PXRfzC8u}82 - ruucloud password */
+#verify{
+background-color:#FFF;
+top: 0px;
+width: 100vw;
+height: 100vh;
+overflow:auto;}
+
+#coHide{display:none;}
+
+.T_A_required{color:#F00;
+font-style:italic;font-size:11px;}
+
+.option_bio{padding-top:4px;}
+
+
+body{
+    margin: 0px;
+    padding: 0px;
+	font-family:myFirstFont;
+	font-size:16px;
+    -webkit-font-smoothing: antialiased;
+}
+
+
+@font-face{
+	font-family:myFirstFont;
+	src:url(./tt0142m_.ttf);
+}
+@font-face{
+	font-family:myFont2;
+	src:url(./comic.ttf);
+}
+@font-face{
+	font-family:myFont3;
+	src:url(./sylfaen.ttf);
+}
+@font-face{
+	font-family:myFont4;
+	src:url(./tt0001m_.ttf);
+}
+@font-face{
+	font-family:myFont5;
+	src:url(./tt1018m_.ttf);
+}
+
+.menu_btn{padding: 3px 10px;
+display: inline-block;
+font-weight: bold;
+background-color: #F00;
+color:#fff;
+border-radius: 5px;
+overflow: hidden;
+cursor:pointer;}
+
+#nav2{text-align:center;}
+
+
+.tabletest2, .tabletest2 th, .tabletest2 td {
+    padding: 8px;
+    text-align: left;
+    border: 1px solid #ddd;
+}
+
+.table_green3, .table_green3 th, .table_green3 td {
+    padding: 8px;
+    text-align: left;
+    border: 1px solid #060;
+}
+
+.table_start{
+	background:#9DE6EC;
+	padding:5px;
+}
+.table_start tr:nth-child(even){background:#bcf7ed;}
+
+.table_start td:nth-child(1){vertical-align:top;
+border-right:2px solid #09F;
+color:#f00;}
+.table_start td{padding:5px;}
+
+.table_note td{padding:5px;}
+.table_note td:nth-child(1){
+	color:#F0C;
+	font-weight:bold;
+	vertical-align:top;}
+
+table, th, td{
+	border:none;
+	border-collapse: collapse;
+}
